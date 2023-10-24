@@ -1,4 +1,4 @@
-// 1475.cpp 방 번호
+// 1475.cpp 방 번호 
 
 #include <iostream>
 #include <string>
