@@ -1,4 +1,4 @@
-// 10866.cpp 덱
+// 10866.cpp 덱 
 
 #include <iostream>
 #include <string>
