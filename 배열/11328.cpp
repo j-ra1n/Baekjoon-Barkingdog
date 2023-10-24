@@ -1,4 +1,4 @@
-// 11328.cpp Strfry
+// 11328.cpp Strfry 
 
 #include <iostream>
 #include <string>
