@@ -1,5 +1,5 @@
 // 1406.cpp 에디터
-
+ 
 #include <iostream>
 #include <list>
 #include <string>
