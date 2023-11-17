@@ -1,11 +1,3 @@
 // 10757.cpp 큰 수 A+B
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-    long long a, b;
-
-    cout << a + b;
-}
+A, B = map(int, input().split())
+print(A+B)    // 파이썬
