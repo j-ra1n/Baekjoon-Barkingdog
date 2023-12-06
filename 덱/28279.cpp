@@ -1,4 +1,4 @@
-// 28279.cpp 덱 2
+// 28279.cpp 덱 2 
 
 #include <iostream>
 
