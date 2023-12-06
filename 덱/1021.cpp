@@ -1,4 +1,4 @@
-// 1021.cpp 회전하는 큐
+// 1021.cpp 회전하는 큐 
 
 #include <iostream>
 #include <deque>
