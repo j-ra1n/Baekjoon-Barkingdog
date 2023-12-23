@@ -52,7 +52,7 @@ int main()
 
     cin >> m;
 
-    for (int i = 0; i < m; ++i)
+    for (int i = 0; i < m; i++)
     {
         cin >> cnt;
         cout << binary_search(v.begin(), v.end(), cnt) << '\n';
