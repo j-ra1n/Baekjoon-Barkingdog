@@ -33,6 +33,6 @@ int main()
         res += v[n - 2];
         cnt++;
     }
-
+ 
     cout << res;
 }
