@@ -1,4 +1,4 @@
-// 144489.cpp
+// 14489.cpp 치킨 두 마리 (...)
 
 #include <bits/stdc++.h>
 
