@@ -1,3 +1,5 @@
+// 큰수의법칙.cpp
+
 #include <bits/stdc++.h>
 
 using namespace std;
