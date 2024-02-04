@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int len, num;
+int n, num;
 vector<int> v;
 
 int main()
@@ -13,18 +13,18 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
-    cin >> len;
+    cin >> n;
 
-    while (len--)
+    while (n--)
     {
         cin >> num;
         v.push_back(num);
     }
 
     sort(v.begin(), v.end());
-    cin >> len;
+    cin >> n;
 
-    while (len--)
+    while (n--)
     {
         cin >> num;
         cout << binary_search(v.begin(), v.end(), num) << ' ';
